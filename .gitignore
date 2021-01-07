@@ -1,0 +1,5 @@
+/target
+/wasm/*.wasm
+/wasm/*.js
+/.idea
+*.lock

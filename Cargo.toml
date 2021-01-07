@@ -1,0 +1,13 @@
+[package]
+name = "rogue_unlike"
+version = "0.1.0"
+authors = ["Ho1messi <1017145733@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#bracket-lib = "0.8"
+rltk = "0.8"
+specs = "0.16"
+specs-derive = "0.4"
